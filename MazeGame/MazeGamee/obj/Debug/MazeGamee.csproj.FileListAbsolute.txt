@@ -1,0 +1,10 @@
+C:\Users\gabby\source\repos\MazeGamee\MazeGamee\bin\Debug\MazeGamee.exe.config
+C:\Users\gabby\source\repos\MazeGamee\MazeGamee\bin\Debug\MazeGamee.exe
+C:\Users\gabby\source\repos\MazeGamee\MazeGamee\bin\Debug\MazeGamee.pdb
+C:\Users\gabby\source\repos\MazeGamee\MazeGamee\obj\Debug\MazeGamee.csprojAssemblyReference.cache
+C:\Users\gabby\source\repos\MazeGamee\MazeGamee\obj\Debug\MazeGamee.Form1.resources
+C:\Users\gabby\source\repos\MazeGamee\MazeGamee\obj\Debug\MazeGamee.Properties.Resources.resources
+C:\Users\gabby\source\repos\MazeGamee\MazeGamee\obj\Debug\MazeGamee.csproj.GenerateResource.cache
+C:\Users\gabby\source\repos\MazeGamee\MazeGamee\obj\Debug\MazeGamee.csproj.CoreCompileInputs.cache
+C:\Users\gabby\source\repos\MazeGamee\MazeGamee\obj\Debug\MazeGamee.exe
+C:\Users\gabby\source\repos\MazeGamee\MazeGamee\obj\Debug\MazeGamee.pdb
